@@ -3,8 +3,8 @@ cs230 Operating Platforms SDT
 
 Client- The Gaming Room
 # Request:
-Re-deveolop their current game "Draw It or Lose It" to be secure, and scalable to multiple client platforms./n
-Current Platform - Android/n
+Re-deveolop their current game "Draw It or Lose It" to be secure, and scalable to multiple client platforms.
+Current Platform - Android
 Current Goals - Expand to new browser clients. (Safari, Google Chrome, MS Edge, ect)
 
 # Successes:
